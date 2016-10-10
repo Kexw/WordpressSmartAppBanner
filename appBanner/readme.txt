@@ -5,6 +5,11 @@ Requires at least: 2.7
 Tested up to: 4.4.2
 Stable tag: 1.0
 
+This smartbanner used Jquery and Css tags already developed by :
+ * jQuery Smart Banner
+ * Copyright (c) 2012 Arnold Daniels <arnold@jasny.net>
+ * Based on 'jQuery Smart Web App Banner' by Kurt Zenisek @ kzeni.com
+ 
 Add Smart App Banner to your website with easy display setting and increase app installs
 
 ** Description **
